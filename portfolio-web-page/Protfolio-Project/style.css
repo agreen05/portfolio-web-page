@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    padding: .5cm;
+    background-color: lightblue;
+}
+
+header{
+  background-color: pink;
+  text-align: center;
+  color: deeppink;
+  font-family: Helvetica;
+}
+
+h3{
+  text-align: center;
+}
+
+main{
+  background-color: lightblue;
+  color: darkblue;
+  font-size: 30px;
+  font-family: Arial;
+}
+
+footer{
+  background-color: pink;
+  color: deeppink;
+  font-family: Helvetica;
+}
+
+h4{
+  text-align: center;
+}
+
+img{
+  height: 30px;
+  width: 30px;
+}
